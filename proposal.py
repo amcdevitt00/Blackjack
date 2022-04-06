@@ -36,3 +36,7 @@ Black jack card-counter keeping a count of different types of cards. When the de
 Black jack card-counter that visually shows when the remaining deck is hot or cold and notifies the user when it has been hot for a certain amount of time. Additionally, statisitcs will be gathered on the odds of decks running hot for more than a ceratin amount of time and how often that occurs in a randomly shufles deck of 6-8 decks.
 
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
+
+We will need to change the background of a turtle screen and learn how to send some type of notification through email or text following certain senarios.
+Daniel will be responsable for research and development of running stats, and changing the turtle sceen and some code consolidating.
+Aaron will be responsable for reserch and development of the notification parts and combining the codes.
