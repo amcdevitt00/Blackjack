@@ -28,4 +28,4 @@ We still need to write an additional code to compile statistics from the outcome
 
 #### What problems, if any, have you encountered?
 
-Having trouble with the thermometer visual.
+Having trouble with the thermometer visual. Also confused about the process of uploading a readme file.
